@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, eu sou o Pedro!</h1>
 
-<p align="center">
+<p>
   Estudante de programação, com conhecimentos em Python, JavaScript e em constante aprendizado. <br>
   Explorando desenvolvimento web e banco de dados <br>
   Sempre buscando aprender algo novo
@@ -9,11 +9,11 @@
 ---
 
 ### Tecnologias que estou aprendendo/domino:
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+  <img height="45" width="45" src="https://img.icons8.com/?size=512&id=bVGqATNwfhYq&format=png"/>
  
 </p>
 
