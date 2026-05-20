@@ -25,13 +25,14 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pedro-D753&show_icons=true&theme=tokyonight&hide_border=true"/>
+## 📊 Minhas Estatísticas do GitHub
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-D753&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=jupyter%20notebook"/>
+![Metrics](https://raw.githubusercontent.com/gist/Ev357/17d9fc0cbccd58aea20b392de2d88eba/raw/aa5379c97b7f1bf89105f0960fafdb389cdbd70e/github-metrics.svg)
 
 </div>
 
 ---
+
 
 
 
